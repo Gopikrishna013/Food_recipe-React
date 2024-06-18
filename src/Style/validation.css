@@ -1,0 +1,40 @@
+.card-form{
+    padding: 100px 100px;
+    /* margin-left: ; */
+    /* margin-left: 100px; */
+}
+.sub-form{
+    border: 1px solid white;
+    background-color: white;
+    box-shadow:  4px 4px 2px rgb(101, 88, 88);
+    padding: 40px 20px;
+    margin-right: 400px;
+    margin-left: 250px;
+    margin-top: 10px;
+}
+.total-form{
+    background-image: url('https://png.pngtree.com/background/20210711/original/pngtree-brown-cartoon-snack-gourmet-restaurant-tea-e-commerce-banner-picture-image_1094319.jpg');
+}
+.form-nm{
+    margin-left: 90px;
+    margin-bottom: 40px;
+}
+.box{
+    padding: 7px 25px;
+    border-radius: 20px;
+    margin-left: 50px;
+    border: 1px solid black;
+}
+.bttn-form{
+    background-color: rgb(198, 32, 135);
+    color: white;
+    padding: 7px 85px;
+    border-radius: 20px;
+    margin-left: 50px;
+    border: 1px solid ;
+    margin-top: 20px;
+}
+.msg{
+    color: red;
+    margin-left: 60px;
+}

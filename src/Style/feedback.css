@@ -1,0 +1,65 @@
+.fb-main{
+    /* background-color: red; */
+    background-image: url('https://img.freepik.com/free-photo/top-view-avocado-toast-with-radish-seeds-plate-with-copy-space_23-2148749089.jpg');
+    /* padding: 100px 40px; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 30px;
+    padding-left: 100px;
+    padding-right: 670px;
+
+}
+.fb-p{
+    margin-top: -80px;
+    margin-bottom: 30px;
+    font-size: 25px;
+    margin-left: -70px;
+}
+.fb-i{
+    font-size: 40px;
+    color: orange;
+    font-weight: bolder;
+}
+.fb-h2{
+    margin-left: 80px;
+    color: rgb(146, 10, 101);
+}
+.fb-sub{
+    border: 1px solid rgb(241, 234, 234);
+    background-color: white;
+    padding: 20px 40px;
+    box-shadow: 2px 3px 2px grey;
+
+}
+h2{
+    margin-left: 10px;
+}
+.fb-form{
+    padding: 10px 6px;
+    width: 300px;
+    margin: 10px 10px;
+    border-radius: 10px;
+    border: 1px solid ;
+}
+.fb-desc{
+    width: 300px;
+    height: 150px;
+    margin-left: 10px;
+}
+.fb-btnn{
+    background-color: orange;
+    color: black;
+    padding: 10px 30px;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-top: 20px;
+
+}
+.fb-btnn:hover{
+    background-color: rgb(236, 12, 161);
+    /* color: black; */
+}
+.msg-1{
+    color: red;
+}

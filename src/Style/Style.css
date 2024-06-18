@@ -1,0 +1,248 @@
+/* .list{
+    list-style: none;
+    display: flex;
+  justify-content: space-evenly;
+} */
+/* .card-container {
+    display: flex;
+    
+    justify-content: space-between;
+} */
+
+.f-tag-f{
+    color: rgb(198, 32, 135);
+}
+.f-h2-f{
+    margin-left: 470px;
+    margin-top: 50px;
+}
+
+/* .form{
+    margin-top: 180px;
+} */
+.input{
+    /* width: 450px;
+    height: 40px; */
+    border: 1px solid;
+    padding: 9px 95px;
+    border-radius: 17px;
+    margin-left: 370px;
+    margin-top: 20px;
+}
+.btn-1{
+    /* height: 40px;
+    width: 100px; */
+    padding: 9px 25px;
+    border: 1px solid ;
+    border-radius: 20px;
+    font-size: 20px;
+    background-color: rgb(198, 32, 135);
+    color: white;
+    
+}
+.btn-1:hover{
+    background-color: rgb(255, 115, 0);
+    color: black;
+}
+
+.meal-card {
+    width: 220px; 
+    margin-bottom: 20px;
+    margin-left: 80px;
+    /* border: 1px solid #ccc; */
+    /* border-radius: 5px; */
+    box-shadow: 2px  2px 2px 2px  grey;
+}
+.meal-card:hover{
+    transform: translateY(-5px);
+}
+.meal{
+    text-decoration: none;
+    color: black;
+}
+.meal:hover{
+    color: red;
+   
+}
+.meal-img {
+    width: 100%;
+    /* border-radius: 8px; */
+}
+.meal-name {
+    margin-top: 20px;
+    font-size: 18px;
+    margin-left: 15px;
+}
+
+
+
+.details-h2{
+    /* margin-top: 30px; */
+    margin-left: 110px;
+    color: black;
+    padding-top: 40px;
+    margin-bottom: 30px;
+    
+}
+.details-h2:hover{
+  color: red;
+  cursor: pointer;
+  transform: translateY(4px);
+}
+.details-img{
+    /* margin-top: 30px; */
+    height: 600px;
+    background-color: black;
+    border-radius: 25px;
+    box-shadow: 4px 4px 4px 2px rgba(147, 231, 225, 0.482);
+}
+.details-2{
+    display: flex;
+    justify-content: space-evenly;
+}
+.card-ingredients{
+   width: 300px;
+  border: 1px solid white;
+  background-color: rgba(24, 24, 24,0.7);
+   box-shadow: 2px  4px 10px 4px rgba(147, 231, 225, 0.482);
+}
+.ingredients-h3{
+    color: white;
+    text-align: center;
+    margin-top: 10px;
+}
+.ingredients-h3:hover{
+    color: red;
+    cursor: pointer;
+
+}
+.ingredients-list{
+    padding: 10px;
+    /* margin-top: 20px; */
+    color: white;
+    margin-left: 20px;
+    font-size: 18px;
+}
+.ingredients-list:hover{
+    color: rgb(72, 255, 0);
+    cursor: pointer;
+}
+.card-instructions{
+    margin-left: 100px;
+    margin-top: 100px;
+    border: 1px solid rgb(194, 145, 145);
+    background-color: rgba(9, 29, 78, 0.651);
+}
+ .instructions{
+    margin-left: 280px;
+    margin-top: 72px;
+    /* background-color:rgba(147, 231, 225, 0.482); */
+    background-color: rgba(9, 29, 78, 0.651);
+    /* background-color: rgba(249, 168, 18, 0.361); */
+    box-shadow: 2px  4px 4px 2px  grey;
+    
+   
+}
+.card-body .instruction-title{
+    font-size: 30px;
+    /* color: rgb(9, 9, 9); */
+    color: white;
+    cursor: pointer;
+   
+}
+.instruction-title:hover{
+    color: black;
+    
+}
+ .instruction-text{
+    font-size: 18px;
+    color: white;
+    /* padding-top: 10px; */
+    padding: 20px;
+}
+.video-you{
+    /* width: 60%; */
+    /* height: 60px; */
+    /* margin-left: 250px; */
+    margin-top: 190px;
+    /* margin-top: 90px; */
+
+}
+.video-h1{
+   padding-top: 40px;
+   margin-left: 200px;
+    color: rgb(12, 10, 10);
+    cursor: pointer;
+}
+.video-h1:hover{
+    color: red;
+}
+.recipe-video{
+    margin-top: 30px;
+    margin-left: 200px;
+    margin-bottom: 30px;
+    width: 600px;
+    height: 400px;
+}
+.total-details{
+    background-color: #8BC6EC;
+    background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+    
+
+/* background-color: #8BC6EC;
+background-image: linear-gradient(135deg, #8BC6EC 0%, #9599E2 100%);
+     */
+
+     /* background-color: #FAD961;
+background-image: linear-gradient(90deg, #FAD961 0%, #F76B1C 100%); */
+
+}
+.card-food-f{
+    /* width: ; */
+    /* margin-right: 30px; */
+    margin-left: 40px;
+}
+.card-food-fimg{
+    width: 1100px;
+}
+.card-tag{
+    font-size: 25px;
+    margin-top: 90px;
+    margin-left: 100px;
+}
+
+.footer{
+    margin-top: -200px;
+    /* padding-top: -200px; */
+}
+
+
+
+.f-cardf{
+    width: 1210px;
+    height: 200px;
+    margin-left: -10px;
+}
+.food-card-title{
+    font-size: 30px;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 30px;
+}
+.food-card-text{
+    font-size: 17px;
+    margin-left: 100px;
+
+}
+.food-btn{
+ margin-left: 100px;
+ margin-top: 30px;
+}
+.food-btn:hover{
+    background-color: rgb(198, 32, 135);
+    color: white;
+}
+.f-Cardimg{
+    /* width: 1250px; */
+    height: 500px;
+}
